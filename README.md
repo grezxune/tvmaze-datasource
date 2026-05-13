@@ -55,16 +55,16 @@ Implement the datasource method with the following behavior:
 ## How To Run
 
 ```bash
-bun install
-bun run test
-bun run typecheck
+pnpm install
+pnpm test
+pnpm run typecheck
 ```
 
 ## Submission Guidance
 
 Please leave the project in a runnable state where:
 
-- `bun run test` completes successfully
-- `bun run typecheck` succeeds
+- `pnpm test` completes successfully
+- `pnpm run typecheck` succeeds
 
 If you make assumptions, note them briefly in code comments or in a short written note.
